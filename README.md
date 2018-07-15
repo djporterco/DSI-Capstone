@@ -151,7 +151,7 @@ Refer to [this](DistPlots.ipynb) notebook for the distribution of the votes.
 
 
 
-## Simple Correlation Check
+## Simple Correlation Check against ***Bullish*** votes
 
 The correlation heat map shows minor correlation to bullishness associated with the Colmean Liau Index of the description and also the domain [ethereumworldnews.com](ethereumworldnews.com)
 
@@ -160,7 +160,7 @@ The correlation heat map shows minor correlation to bullishness associated with 
 
 ## Results
 
-## Using the Elastic Net mode to predict ***User Generated Sentiment***
+## Using the Elastic Net model to predict ***User Generated Sentiment***
 
 The final results that predicted bullishness and bearishness where completed using an ElasticNetCV method. The models used a 0.5 regularization to gain optimal alphas.
 
